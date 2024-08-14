@@ -1,3 +1,10 @@
+<p align=”center”>
+
+<img width=”200" height=”200" src=”https://github.com/Kaired/kaired/blob/main/c07444e0-43da-4686-8f07-cc922d270e3f.webp" alt=”banner”>
+
+</p>
+
+
 ## Sup 👋
 
 Mein Name ist Kaired, und ich bin derzeit Student der Elektrotechnik mit einem Schwerpunkt auf erneuerbare Energie. Meine Leidenschaft liegt in der Schnittstelle zwischen Technik und Natur, und ich strebe danach, innovative Lösungen zu entwickeln, die sowohl technisch fortschrittlich als auch umweltfreundlich sind.
