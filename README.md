@@ -1,7 +1,5 @@
 <p align=”center”>
-
 <img width=”200" height=”200" src=”https://github.com/Kaired/kaired/blob/main/c07444e0-43da-4686-8f07-cc922d270e3f.webp" alt=”banner”>
-
 </p>
 
 
